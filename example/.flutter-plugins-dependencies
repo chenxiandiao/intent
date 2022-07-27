@@ -1,0 +1,1 @@
+{"info":"This is a generated file; do not edit or check into version control.","plugins":{"ios":[],"android":[{"name":"intent","path":"D:\\\\flutter_pub\\\\intent\\\\","native_build":true,"dependencies":[]}],"macos":[],"linux":[],"windows":[],"web":[]},"dependencyGraph":[{"name":"intent","dependencies":[]}],"date_created":"2022-07-27 15:10:07.207264","version":"3.0.5"}
